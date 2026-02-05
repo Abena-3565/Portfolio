@@ -124,5 +124,14 @@ This project demonstrates the complete data analysis lifecycle on messy real-wor
 
 ---
 
-## 📬 Contact
-For freelance data analysis or machine learning projects, feel free to connect via GitHub or Upwork.
+## Author
+
+Abenezer Alemayehu
+
+GitHub: https://github.com/Abena-3565
+
+Upwork: https://www.upwork.com/freelancers/~014bf69d00b1a1324d
+
+Email: abenezeralz659@gmail.com
+
+For freelance data analysis or machine learning projects, feel free to connect.
